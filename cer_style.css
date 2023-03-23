@@ -1,0 +1,19 @@
+
+
+body{
+    background-image: url("img/form.jpg");
+    background-size: 120%;
+    background-position: -400px 0px;
+}
+
+div.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+
+h2{
+    font-size: 70 px;
+    text-align: center;
+}
+
+

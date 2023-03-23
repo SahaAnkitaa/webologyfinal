@@ -1,0 +1,46 @@
+body{
+    background: linear-gradient(to right, #f5fffd,rgba(77, 163, 182, 0.867));
+}
+
+.topnav{
+    position:fixed;
+    top:0;
+    width:1350px;
+    background-color: rgb(221, 173, 230);
+    outline: 0.5cm;
+    margin:auto;
+}
+
+.topnav a{
+    font-size:180 px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 5px 15px;
+    float:left;
+    color:black;
+}
+
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:10%;
+    height:10%;
+}
+
+h1{
+    text-align: center;
+    font-size:90px;
+    font-family:cursive;
+    padding:10px;
+}
+
+h4{
+    text-align:center;
+    font-size: 30px;
+}
+
+h3{
+    text-align: center;
+    font-size: 40px;
+}
